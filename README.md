@@ -7,7 +7,7 @@ With this application I wrote in Python, you can easily block any website you wa
 
  Important note: you must run the main.py file as administrator.
 
- The easiest way is to simply run the program from which you run the script as administrator**
+###### ### The easiest way is to simply run the program from which you run the script as administrator**
 
 
 
