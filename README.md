@@ -2,7 +2,7 @@
 
 **With this application I wrote in Python, you can easily block any website you want.
 
-[========]
+**[========]
 
 
 # Important note: you must run the main.py file as administrator.
