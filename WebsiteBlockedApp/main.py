@@ -5,7 +5,7 @@ root.resizable(0,0)
 root.title("Website Blocking App")
 Label(root, text ='Website Blocking App' , font ='Helvetica 15 bold').pack()
 host_path ='C:\\Windows\\System32\\drivers\\etc\\hosts'
-ip_address = '127.0.0.1'
+ip_address = 'Enter the local host ip adress'
 Label(root, text ='Website Url Link:' , font ='Helvetica 10 bold').place(x=5 ,y=70)
 Websites = Text(root,font = 'arial 10',height='2', width = '40')
 Websites.place(x= 140,y = 60)
